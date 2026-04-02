@@ -2,20 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctorant en mathématiques, <a href="https://math.univ-cotedazur.fr/" target="_blank">Laboratoire J.A. Dieudonné</a>, Université Nice Côte d'Azur
+subtitle: PhD Student in Applied Mathematics, <a href="https://math.univ-cotedazur.fr/" target="_blank">Laboratoire J.A. Dieudonné</a>, Université Nice Côte d'Azur
 
 profile:
   align: right
-  image: moi.jpg          # ← 🔴 REMPLACE par le nom de ta photo
+  image: moi.jpg
   image_circular: false
   more_info: >
     <p>Laboratoire J.A. Dieudonné</p>
     <p>Université Nice Côte d'Azur</p>
     <p>Nice, France</p>
 
-news: true          # affiche la section Actualités
-selected_papers: true  # affiche la section Publications sélectionnées
-social: true        # affiche les icônes de réseaux sociaux
+news: true
+selected_papers: true
+social: true
 ---
 
 I am a third-year PhD student at the [Laboratoire J.A. Dieudonné](https://math.univ-cotedazur.fr/),
