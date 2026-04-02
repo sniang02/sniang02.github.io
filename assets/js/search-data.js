@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-audios",
-        
-          title: "a post with audios",
-        
-        description: "this is what included audios could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/audios/";
-          
-        },
-      },{id: "post-a-post-with-videos",
+            },{id: "post-a-post-with-videos",
         
           title: "a post with videos",
         
