@@ -4,7 +4,7 @@
     "label": "PhD Student in Applied Mathematics",
     "image": "",
     "email": "ousmaneniangprs@gmail.com",
-    "phone": "+33 7 63 94 72 96",
+    "phone": "+33 7 86 68 29 77",
     "url": "https://sniang02.github.io",
     "summary": "PhD student in applied mathematics at Université Côte d'Azur, specialising in deep probabilistic graphical models for the joint analysis of networks and continuous data. Member of the INRIA MAASAI team.",
     "location": {
@@ -33,7 +33,7 @@
       "url": "https://univ-cotedazur.eu/",
       "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "2023-11-01",
+      "startDate": "2023-10-01",
       "endDate": "",
       "score": "",
       "courses": [
@@ -45,7 +45,7 @@
       "institution": "École Polytechnique / Université Paris-Saclay",
       "location": "Paris, France",
       "url": "https://www.universite-paris-saclay.fr/",
-      "area": "Data Science – Artificial Intelligence",
+      "area": "Mathematics and computer sciences – Artificial Intelligence",
       "studyType": "M2 (Master 2)",
       "startDate": "2022-09-01",
       "endDate": "2023-06-30",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "institution": "Université Paris-Saclay",
+      "institution": "Université Paris-Saclay / ENSTA PARIS",
       "location": "Paris, France",
       "url": "https://www.universite-paris-saclay.fr/",
       "area": "Applied Mathematics",
@@ -84,7 +84,7 @@
       "location": "Paris, France",
       "url": "https://www.universite-paris-saclay.fr/",
       "area": "Pure Mathematics",
-      "studyType": "Magistère",
+      "studyType": "DU Magistère",
       "startDate": "2020-09-01",
       "endDate": "2021-06-30",
       "score": "",
@@ -100,9 +100,9 @@
       "location": "Paris, France",
       "url": "https://www.universite-paris-saclay.fr/",
       "area": "Mathematics and Computer Science (Double Bachelor)",
-      "studyType": "L1/L2",
-      "startDate": "2018-09-01",
-      "endDate": "2020-06-30",
+      "studyType": "Double bachelors",
+      "startDate": "2020-09-01",
+      "endDate": "2021-06-30",
       "score": "",
       "courses": [
         "Mathematics",
