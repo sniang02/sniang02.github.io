@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-formatting-and-links",
+            },{id: "post-",
         
-          title: "a post with formatting and links",
+          title: "",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/ddpm-introduction/";
+            window.location.href = "/blog/2026/2026-04-03-ddpm-introduction/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
