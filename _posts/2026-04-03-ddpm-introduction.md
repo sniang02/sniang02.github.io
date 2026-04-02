@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title: Denoising Diffusion Probabilistic Models (DDPM) 
+date: 2023-03-15 16:40:16
+description: A comprehensive introduction to Denoising Diffusion Probabilistic Models: theory, mathematics, and a PyTorch implementation on MNIST
+tags: machine-learning 
+categories: Probabilities
 ---
 
 Denoising Diffusion Probabilistic Models (DDPMs) have revolutionised generative modelling, producing state-of-the-art results in image synthesis, audio generation, and beyond. In this post, we build the theory from scratch and implement a DDPM on the MNIST dataset.
