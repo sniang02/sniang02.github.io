@@ -3,7 +3,7 @@ layout: course
 title: Mener une étude statistique dans un domaine d'application
 description: Applied statistical study in a professional context for third-year BUT STID students.
 instructor: Seydina Ousmane NIANG
-year: 2024
+year: 2024-2026
 term: Autumn
 location: IUT STID, Université Nice Côte d'Azur
 time: SAÉ 5.EMS.01
