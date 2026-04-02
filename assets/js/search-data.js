@@ -486,9 +486,9 @@ ninja.data = [{
           description: "Introduction to probability theory and random variables for first-year BUT STID students.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Probabilite_1/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+            },},{id: "teachings-mener-une-étude-statistique-dans-un-domaine-d-39-application",
+          title: 'Mener une étude statistique dans un domaine d&amp;#39;application',
+          description: "Applied statistical study in a professional context for third-year BUT STID students.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
