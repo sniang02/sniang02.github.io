@@ -3,8 +3,8 @@ layout: post
 title: "The Complete Mathematical Background for Artificial Intelligence"
 date: 2026-04-03 14:00:00+0100
 description: "A comprehensive reference covering linear algebra, analysis, probability theory, statistics, Bayesian methods, and Markov chains — everything you need for modern AI and machine learning."
-tags: [mathematics, linear-algebra, probability, statistics, Bayesian, Markov-chains, AI]
-categories: [mathematics]
+tags: mathematics, linear-algebra, probability, statistics, Bayesian, Markov-chains, AI
+categories: mathematics
 giscus_comments: false
 related_posts: true
 toc:
