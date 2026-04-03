@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-denoising-diffusion-probabilistic-models",
         
-          title: "",
+          title: "Denoising Diffusion Probabilistic Models",
         
-        description: "",
+        description: "June &amp; September, A comprehensive introduction to Denoising Diffusion Probabilistic Models",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-04-03-ddpm-introduction/";
+            window.location.href = "/blog/2023/ddpm-introduction/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
