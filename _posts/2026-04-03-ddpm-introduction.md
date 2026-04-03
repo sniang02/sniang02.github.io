@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Denoising Diffusion Probabilistic Models (DDPM) 
-date: 2017-03-15 16:40:16
-description: June & September A comprehensive introduction to Denoising Diffusion Probabilistic Models: theory, mathematics, and a PyTorch implementation on MNIST
+date: 2023-03-15 16:40:16
+description: June & September, A comprehensive introduction to Denoising Diffusion Probabilistic Models: theory, mathematics, and a PyTorch implementation on MNIST
 tags: machinelearning 
 categories: sample-posts
 ---
