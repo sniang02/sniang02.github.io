@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-denoising-diffusion-probabilistic-models",
+            },{id: "post-an-introduction-to-variational-autoencoders-vae",
+        
+          title: "An Introduction to Variational Autoencoders (VAE)",
+        
+        description: "A gentle introduction to Variational Autoencoders: theory, probabilistic foundations, and PyTorch implementation.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/vae-introduction/";
+          
+        },
+      },{id: "post-denoising-diffusion-probabilistic-models",
         
           title: "Denoising Diffusion Probabilistic Models",
         
