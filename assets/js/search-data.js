@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-an-introduction-to-variational-autoencoders-vae",
+            },{id: "post-the-complete-mathematical-background-for-artificial-intelligence",
+        
+          title: "The Complete Mathematical Background for Artificial Intelligence",
+        
+        description: "A comprehensive reference covering linear algebra, analysis, probability theory, statistics, Bayesian methods, and Markov chains — everything you need for modern AI and machine learning.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/math-background-ai/";
+          
+        },
+      },{id: "post-an-introduction-to-variational-autoencoders-vae",
         
           title: "An Introduction to Variational Autoencoders (VAE)",
         
