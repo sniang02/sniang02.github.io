@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seydina-niang02.github.io/sitemap.xml
+Sitemap: https://seydina-ousmane.niang.github.io/sitemap.xml
