@@ -27,25 +27,26 @@
   note         = {Published online: 12 March 2026},
 }
 
-@unpublished{niang:hal-05618161,
-  title = {{Large-Scale Graphon Learning with Topology-Aware Stochastic Optimization}},
-  author = {Niang, Seydina Ousmane and Bouveyron, Charles and Corneli, Marco and Latouche, Pierre},
-  URL = {https://hal.science/hal-05618161},
-  NOTE = {working paper or preprint},
-  year = {2026},
-  month = <May>,
-  pdf = {https://hal.science/hal-05618161v1/file/Unlocking_Large_Scale_Graphon_Estimation.pdf},
-  abstract = {Graphons are continuous models that represent the graph structure and allow the generation of networks of any sizes. 
-Estimating graphons from large-scale networks is however computationally challenging due to the limited scalability of existing methods, most of which are histogram-based. 
-To tackle this issue, this work reformulates graphon estimation as a maximum likelihood problem within a variational autoencoding framework that leverages a continuous implicit neural representation (INR) to approximate the graphon.
-The encoder is implemented as a graph neural network, enabling flexible and expressive modeling of network structures. 
-A key contribution of this work is the proposition of a new strongly consistent stochastic estimator of the evidence lower bound, relying on a topology-aware  sampling scheme, 
-which facilitates efficient training via mini-batch stochastic gradient descent on large networks. Moreover, our approach enables scalable and resolution-free generative modeling of random graphs, 
-opening new avenues for scalable and interpretable complex network analysis. 
-We demonstrate that it surpasses state-of-the-art scores across a range of unsupervised tasks, including graphon reconstruction, node clustering and multi-layer network analysis.
-  }
-  HAL_ID = {hal-05618161},
-  HAL_VERSION = {v1},
+@unpublished{niang2026sgvae,
+  title        = {Large-Scale Graphon Learning with Topology-Aware Stochastic Optimization},
+  author       = {Niang, Seydina Ousmane and Bouveyron, Charles and Corneli, Marco and Latouche, Pierre},
+  year         = {2026},
+  month        = {May},
+  hal          = {hal-05618161},
+  html         = {https://hal.science/hal-05618161},
+  pdf          = {https://hal.science/hal-05618161v1/file/Unlocking_Large_Scale_Graphon_Estimation.pdf},
+  abstract     = {We introduce SGVAE, a scalable variational graph autoencoder for large-scale network 
+                  analysis. The decoder is modelled as a neural implicit representation mapping pairs 
+                  of latent positions to edge probabilities, acting as a continuous graphon estimator. 
+                  We propose an unbiased stochastic mini-batch ELBO estimator with topology-aware 
+                  sampling, significantly outperforming state-of-the-art methods in both scalability 
+                  and clustering quality. A key finding is that the learned latent geometry naturally 
+                  supports node clustering without additional training, suggesting that decoder 
+                  architecture is more determinant than encoder sophistication.},
+  keywords     = {Graphon, Variational autoencoder, Large-scale networks, Stochastic optimization, Node clustering, Graph neural networks},
+  selected     = {true},
+  bibtex_show  = {true},
+  note         = {Preprint},
 }
 
 @inproceedings{niang2025deepzilpbm,
