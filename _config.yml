@@ -2,6 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+google_site_verification: 2v5Y1kYrIsZbmj2MY2lKPAaFUGSxOzyhb3MeuBrX1xM
+enable_google_verification: true
+
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Seydina Ousmane
 middle_name:
