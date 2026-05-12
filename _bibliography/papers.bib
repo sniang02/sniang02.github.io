@@ -28,13 +28,22 @@
 }
 
 @unpublished{niang:hal-05618161,
-  TITLE = {{Large-Scale Graphon Learning with Topology-Aware Stochastic Optimization}},
-  AUTHOR = {Niang, Seydina Ousmane and Bouveyron, Charles and Corneli, Marco and Latouche, Pierre},
+  title = {{Large-Scale Graphon Learning with Topology-Aware Stochastic Optimization}},
+  author = {Niang, Seydina Ousmane and Bouveyron, Charles and Corneli, Marco and Latouche, Pierre},
   URL = {https://hal.science/hal-05618161},
   NOTE = {working paper or preprint},
-  YEAR = {2026},
-  MONTH = May,
-  PDF = {https://hal.science/hal-05618161v1/file/Unlocking_Large_Scale_Graphon_Estimation.pdf},
+  year = {2026},
+  month = <May>,
+  pdf = {https://hal.science/hal-05618161v1/file/Unlocking_Large_Scale_Graphon_Estimation.pdf},
+  abstract = {Graphons are continuous models that represent the graph structure and allow the generation of networks of any sizes. 
+Estimating graphons from large-scale networks is however computationally challenging due to the limited scalability of existing methods, most of which are histogram-based. 
+To tackle this issue, this work reformulates graphon estimation as a maximum likelihood problem within a variational autoencoding framework that leverages a continuous implicit neural representation (INR) to approximate the graphon.
+The encoder is implemented as a graph neural network, enabling flexible and expressive modeling of network structures. 
+A key contribution of this work is the proposition of a new strongly consistent stochastic estimator of the evidence lower bound, relying on a topology-aware  sampling scheme, 
+which facilitates efficient training via mini-batch stochastic gradient descent on large networks. Moreover, our approach enables scalable and resolution-free generative modeling of random graphs, 
+opening new avenues for scalable and interpretable complex network analysis. 
+We demonstrate that it surpasses state-of-the-art scores across a range of unsupervised tasks, including graphon reconstruction, node clustering and multi-layer network analysis.
+  }
   HAL_ID = {hal-05618161},
   HAL_VERSION = {v1},
 }
