@@ -215,15 +215,22 @@
 
   "publications": [
     {
+  "name": "Large-Scale Graphon Learning with Topology-Aware Stochastic Optimization",
+  "publisher": "Preprint (HAL)",
+  "releaseDate": "2026",
+  "url": "https://hal.science/hal-05618161",
+  "summary": "Scalable variational graph autoencoder (SGVAE) for large-scale network analysis using topology-aware stochastic optimization and neural implicit decoder."
+   },
+    {
       "name": "The Deep Latent Position Block Model for the Clustering of Nodes in Multi-Graphs",
-      "publisher": "Preprint (HAL)",
+      "publisher": "Journal of Classification",
       "releaseDate": "2026",
       "url": "https://hal.science/hal-04840577",
       "summary": "Extension of the Deep-LPBM to multidimensional networks using a deep VAE with GCNs."
     },
     {
       "name": "The Deep Zero-Inflated Latent Position Block Model for the Clustering of Nodes in Graphs",
-      "publisher": "Preprint (HAL)",
+      "publisher": "JDS 2025",
       "releaseDate": "2025",
       "url": "https://hal.science/hal-04947021",
       "summary": "Deep generative model for node clustering in sparse networks with zero-inflated structure."
