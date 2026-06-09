@@ -27,7 +27,8 @@ latest_posts:
   limit: 3
 ---
 
-I am a third-year PhD student at the [Laboratoire J.A. Dieudonné](https://math.univ-cotedazur.fr/),
+I am a third-year PhD student in the [Maasai project-team](https://team.inria.fr/maasai/) (Inria),
+at the [Laboratoire J.A. Dieudonné](https://math.univ-cotedazur.fr/),
 [Université Nice Côte d'Azur](https://univ-cotedazur.eu/), under the supervision of
 [Prof. Charles Bouveyron](https://math.univ-cotedazur.fr/~cbouveyr/),
 [Dr. Marco Corneli](https://math.univ-cotedazur.fr/~mcorneli/),
