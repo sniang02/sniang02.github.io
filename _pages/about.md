@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD  in Applied Mathematics, <a href="https://math.univ-cotedazur.fr/" target="_blank">Laboratoire J.A. Dieudonné</a>, Université Nice Côte d'Azur
+subtitle: PhD  in Applied Mathematics, [Maasai](https://team.inria.fr/maasai/) (Inria),  <a href="https://math.univ-cotedazur.fr/" target="_blank">Laboratoire J.A. Dieudonné</a>, Université Nice Côte d'Azur
 
 profile:
   align: right
