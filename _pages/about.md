@@ -32,7 +32,7 @@ at the [Laboratoire J.A. Dieudonné](https://math.univ-cotedazur.fr/),
 [Prof. Charles Bouveyron](https://math.univ-cotedazur.fr/~cbouveyr/),
 [Dr. Marco Corneli](https://math.univ-cotedazur.fr/~mcorneli/),
 and [Prof. Pierre Latouche](https://lmbp.uca.fr/~latouche/).
-I defended my thesis on **2nd October 2026**.
+I defended my thesis on 2 October 2026 — [[slides]](/assets/pdf/main_defense.pdf).
 
 My PhD research focused on **deep generative models for the joint analysis of networks
 and continuous data**. More broadly, my research interests lie at the intersection of
